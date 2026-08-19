@@ -228,7 +228,6 @@ Through this project, the following concepts were explored:
 
 ## Future Improvements
 
-- Gray Code Pointer Synchronization
 - Dual-Port RAM Based FIFO
 - Almost Full / Almost Empty Flags
 - Parameterized Data Width
